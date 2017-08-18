@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%BA%94%E8%AF%A5%E9%87%8D%E5%86%99viewDidLayoutSubviews.html</loc>
+    <loc>http://yoursite.com/%E4%BB%80%E4%B9%88%E6%98%AFEXC_BAD_ACCESS%E4%BB%A5%E5%8F%8A%E5%A6%82%E4%BD%95%E8%B0%83%E8%AF%95.html</loc>
     
     <lastmod>2017-07-20T06:22:38.000Z</lastmod>
     
@@ -114,14 +114,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/%E4%BB%80%E4%B9%88%E6%98%AFEXC_BAD_ACCESS%E4%BB%A5%E5%8F%8A%E5%A6%82%E4%BD%95%E8%B0%83%E8%AF%95.html</loc>
+    <loc>http://yoursite.com/%E8%A7%82%E3%80%8A%E8%A2%AB%E5%AB%8C%E5%BC%83%E7%9A%84%E6%9D%BE%E5%AD%90%E7%9A%84%E4%B8%80%E7%94%9F%E3%80%8B%E6%9C%89%E6%84%9F.html</loc>
     
     <lastmod>2017-07-20T06:22:38.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/%E8%A7%82%E3%80%8A%E8%A2%AB%E5%AB%8C%E5%BC%83%E7%9A%84%E6%9D%BE%E5%AD%90%E7%9A%84%E4%B8%80%E7%94%9F%E3%80%8B%E6%9C%89%E6%84%9F.html</loc>
+    <loc>http://yoursite.com/%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%BA%94%E8%AF%A5%E9%87%8D%E5%86%99viewDidLayoutSubviews.html</loc>
     
     <lastmod>2017-07-20T06:22:38.000Z</lastmod>
     
@@ -192,13 +192,6 @@
   
   <url>
     <loc>http://yoursite.com/About%20Laying%20out%20Subviews.html</loc>
-    
-    <lastmod>2017-07-20T06:22:38.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/404.html</loc>
     
     <lastmod>2017-07-20T06:22:38.000Z</lastmod>
     
